@@ -1,0 +1,28 @@
+// Built in data structures
+1. Arrays
+2. Object
+3. Sets
+4. Map 
+
+// Custom datga structures
+1. Stacks 
+2. Queues
+3. Curcular queues 
+4. Linked List
+5. Hash Tables
+6. Trees
+7. Graphs
+
+// enqueue and dequeue
+** enqueue = add element in last 
+** dequeue = work in first element and  remove first 
+
+
+//======================================== Modules[%] Use Case ===========================// 
+modules er ekta gurutto punno useCase ase seita hoilo zodi kono kichu ami caitechi oi songkha r niche thakbe and zodi oi songkha hoy tahole abar 0 theke start hbe. ei dhoroner khetre % ta bebohar kora zay karon modules er [banPash<=4%5=>danPash] danPashe kono boro number bosiye dile sob somoy bamPasher tay result asbe r zodi danPash r bamPash ek hoye jay tokhon 0 hoye jabe mane abar first theke shuru hobe 
+
+0%4=0
+1%4 = 1
+2%4 = 2
+3%4 = 3
+4%4 = 0
